@@ -1,0 +1,21 @@
+{
+  "name": "weglot-js-assessment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo 'Not implemented yet';"
+  },
+  "description": "The first rule is, **do not** fork this repo, clone it or use it as template.",
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "dependencies": {
+    "date-fns": "^2.25.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}
